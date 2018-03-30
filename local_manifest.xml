@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="device/motorola/falcon" name="falcon-oreo/android_device_motorola_falcon" remote="github" revision="lineage-15.1" />
+<project path="device/motorola/peregrine" name="falcon-oreo/android_device_motorola_peregrine" remote="github" revision="lineage-15.1" />
+<project path="device/motorola/titan" name="falcon-oreo/android_device_motorola_titan" remote="github" revision="lineage-15.1" />
+<project path="device/motorola/msm8226-common" name="falcon-oreo/android_device_motorola_msm8226-common" remote="github" revision="lineage-15.1" />
+<project path="kernel/motorola/msm8226" name="falcon-oreo/android_kernel_motorola_msm8226" remote="github" revision="lineage-15.1" />
+<project path="vendor/motorola" name="falcon-oreo/proprietary_vendor_motorola" remote="github" revision="lineage-15.1" />
+<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-15.1" />
+</manifest>
